@@ -1,0 +1,10 @@
+B cell
+endothelial cell
+epithelial cell
+fibroblast
+mast cell
+myeloid cell
+pericyte
+plasma cell
+T cell
+smooth muscle cell

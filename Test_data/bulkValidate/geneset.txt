@@ -1,0 +1,9 @@
+gene_group
+CD8A
+CXCL10
+CXCL9
+GZMA
+GZMB
+IFNG
+PRF1
+TBX21
