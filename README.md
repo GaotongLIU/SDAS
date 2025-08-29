@@ -9,7 +9,7 @@ Stereo Data Analysis Solution (SDAS) is an advanced bioinformatics software suit
   - Includes: data processing, cell type annotation, spatial domain identification, cellular neighborhood analysis, CNV analysis, spatial gene co-expression, differential gene identification, gene set enrichment analysis, protein interaction network analysis, cell communication analysis, trajectory analysis, transcription factor analysis, cell-type spatial relationship analysis, and public bulk database validation.
 - **Input:** h5ad files (from SAW count, SAW convert gef2h5ad), h5mu files (from SAW aggr), rds files
 - **Output:** h5ad, rds, csv, txt, png, pdf
-![SDAS Introduction](https://www.gitbook.com/cdn-cgi/image/dpr=2,width=2400,onerror=redirect,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FCggbEDCoTSjskIWVTMeM%252Fuploads%252Fn6rrmVLDNOhW96rd40hg%252Fsdas_intro_eng.png%3Falt%3Dmedia%26token%3D3820acc1-6278-4ada-89a8-4630c4e60bf4)
+![SDAS Introduction](https://www.gitbook.com/cdn-cgi/image/dpr=2,width=2400,onerror=redirect,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FCggbEDCoTSjskIWVTMeM%252Fuploads%252FKpT9Rfg1jyZDV51IkXx9%252Fsdas_intro_eng.png%3Falt%3Dmedia%26token%3Db88b4029-8def-4f31-845a-73f9d6a2102a)
 
 
 ## Documentation
@@ -26,8 +26,8 @@ Stereo Data Analysis Solution (SDAS) is an advanced bioinformatics software suit
 - 64-bit CentOS/RedHat 7.8 or Ubuntu 20.04
 
 ### 2. Software Download
-- Baidu Netdisk: https://bgipan.genomics.cn/#/link/LRlWY2OYRtd5QYP5ql1k code:wfFT
-- Github (Note: The repository does not include .tar.gz file or test data): 
+- Baidu Netdisk: https://bgipan.genomics.cn/#/link/6G3xKjaGthlJwBxO2VMA code:au3G
+- Github (Note: The repository does not include .tar.gz file or .h5ad test data due to file size limit): 
   ```bash
   git clone https://github.com/STOmics/SDAS.git
   ```
