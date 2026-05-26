@@ -26,7 +26,10 @@ Stereo Data Analysis Solution (SDAS) is an advanced bioinformatics software suit
 - 64-bit CentOS/RedHat 7.8 or Ubuntu 20.04
 
 ### 2. Software Download
-- Baidu Netdisk: https://bgipan.genomics.cn/#/link/6G3xKjaGthlJwBxO2VMA code:au3G
+- WPS CloudDrive: https://365.kdocs.cn/l/ck8Q456MSkbq
+  ```bash
+  wget -O sdas-1.0.1.zip "https://ksc-bj.ag.kdocs.cn/api/object/2_6c05d25c0c8b44c0978a632eaafb8eff/compatible?response-content-disposiame%2A%3Dutf-8%27%27SDAS_1.0.1.zip&KSSAccessKeyId=AKLTU7N1__ODQ4KKf-YhOK9iwg&Expires=1779790554&Signature=6AenFDOR3D"
+  ```
 - Github (Note: The repository does not include .tar.gz file or .h5ad test data due to file size limit): 
   ```bash
   git clone https://github.com/STOmics/SDAS.git
@@ -38,8 +41,9 @@ Stereo Data Analysis Solution (SDAS) is an advanced bioinformatics software suit
 **Important:** After extraction, run the setup.sh script. Do not change the installation path or rename the directory after installation.
 
 ```bash
-tar -xzf sdas-1.0.0.tar.gz
-cd sdas-1.0.0
+unzip sdas-1.0.1.zip
+tar -xzf sdas-1.0.1.tar.gz
+cd sdas-1.0.1
 sh setup.sh
 ```
 
